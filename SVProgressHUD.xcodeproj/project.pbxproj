@@ -9,19 +9,17 @@
 /* Begin PBXBuildFile section */
 		3CB14F9D1AFBCB57003C2641 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CB14F9B1AFBCB57003C2641 /* SVRadialGradientLayer.m */; };
 		4A9D7DD11AB345540039B273 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A9D7DCF1AB345540039B273 /* SVIndefiniteAnimatedView.m */; };
-		52C99DCC1F13CC75007D6F02 /* SVProgressHUD tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 52C99DCA1F13CC75007D6F02 /* SVProgressHUD tvOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52C99DD01F13CDF1007D6F02 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 65F0220615C857EF0030BBEF /* SVProgressHUD.m */; };
-		52C99DD11F13CDF3007D6F02 /* SVProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 65F0220415C857EF0030BBEF /* SVProgressHUD.h */; };
+		52C99DD11F13CDF3007D6F02 /* SVProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 65F0220415C857EF0030BBEF /* SVProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52C99DD21F13CDF8007D6F02 /* SVRadialGradientLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3CB14F9A1AFBCB57003C2641 /* SVRadialGradientLayer.h */; };
 		52C99DD41F13CDFD007D6F02 /* SVProgressAnimatedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A58C8EA1CAE62F400BF604D /* SVProgressAnimatedView.h */; };
 		52C99DD51F13CE00007D6F02 /* SVProgressAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A58C8EB1CAE62F400BF604D /* SVProgressAnimatedView.m */; };
 		52C99DD61F13CE02007D6F02 /* SVIndefiniteAnimatedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A9D7DCE1AB345540039B273 /* SVIndefiniteAnimatedView.h */; };
 		52C99DD71F13CE04007D6F02 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A9D7DCF1AB345540039B273 /* SVIndefiniteAnimatedView.m */; };
 		52C99DD81F13CE40007D6F02 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CB14F9B1AFBCB57003C2641 /* SVRadialGradientLayer.m */; };
-		52C99DE61F13EEBC007D6F02 /* SVProgressHUD iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 52C99DE41F13EEBC007D6F02 /* SVProgressHUD iOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52C99DEA1F13EED5007D6F02 /* SVRadialGradientLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3CB14F9A1AFBCB57003C2641 /* SVRadialGradientLayer.h */; };
 		52C99DEB1F13EED9007D6F02 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CB14F9B1AFBCB57003C2641 /* SVRadialGradientLayer.m */; };
-		52C99DEC1F13EEDB007D6F02 /* SVProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 65F0220415C857EF0030BBEF /* SVProgressHUD.h */; };
+		52C99DEC1F13EEDB007D6F02 /* SVProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 65F0220415C857EF0030BBEF /* SVProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52C99DED1F13EEDF007D6F02 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 65F0220615C857EF0030BBEF /* SVProgressHUD.m */; };
 		52C99DEE1F13EEE1007D6F02 /* SVProgressAnimatedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A58C8EA1CAE62F400BF604D /* SVProgressAnimatedView.h */; };
 		52C99DEF1F13EEE4007D6F02 /* SVProgressAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A58C8EB1CAE62F400BF604D /* SVProgressAnimatedView.m */; };
@@ -54,10 +52,8 @@
 		4A9D7DCE1AB345540039B273 /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
 		4A9D7DCF1AB345540039B273 /* SVIndefiniteAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVIndefiniteAnimatedView.m; sourceTree = "<group>"; };
 		52C99DC81F13CC75007D6F02 /* SVProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SVProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		52C99DCA1F13CC75007D6F02 /* SVProgressHUD tvOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD tvOS.h"; sourceTree = "<group>"; };
 		52C99DCB1F13CC75007D6F02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52C99DE21F13EEBC007D6F02 /* SVProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SVProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		52C99DE41F13EEBC007D6F02 /* SVProgressHUD iOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD iOS.h"; sourceTree = "<group>"; };
 		52C99DE51F13EEBC007D6F02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65F021FC15C857EF0030BBEF /* libSVProgressHUD.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSVProgressHUD.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F021FF15C857EF0030BBEF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -98,7 +94,6 @@
 		52C99DC91F13CC75007D6F02 /* SVProgressHUD tvOS */ = {
 			isa = PBXGroup;
 			children = (
-				52C99DCA1F13CC75007D6F02 /* SVProgressHUD tvOS.h */,
 				52C99DCB1F13CC75007D6F02 /* Info.plist */,
 			);
 			path = "SVProgressHUD tvOS";
@@ -107,7 +102,6 @@
 		52C99DE31F13EEBC007D6F02 /* SVProgressHUD iOS */ = {
 			isa = PBXGroup;
 			children = (
-				52C99DE41F13EEBC007D6F02 /* SVProgressHUD iOS.h */,
 				52C99DE51F13EEBC007D6F02 /* Info.plist */,
 			);
 			path = "SVProgressHUD iOS";
@@ -174,11 +168,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52C99DD61F13CE02007D6F02 /* SVIndefiniteAnimatedView.h in Headers */,
 				52C99DD11F13CDF3007D6F02 /* SVProgressHUD.h in Headers */,
+				52C99DD61F13CE02007D6F02 /* SVIndefiniteAnimatedView.h in Headers */,
 				52C99DD21F13CDF8007D6F02 /* SVRadialGradientLayer.h in Headers */,
 				52C99DD41F13CDFD007D6F02 /* SVProgressAnimatedView.h in Headers */,
-				52C99DCC1F13CC75007D6F02 /* SVProgressHUD tvOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,11 +179,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52C99DEC1F13EEDB007D6F02 /* SVProgressHUD.h in Headers */,
 				52C99DF01F13EEE7007D6F02 /* SVIndefiniteAnimatedView.h in Headers */,
 				52C99DEA1F13EED5007D6F02 /* SVRadialGradientLayer.h in Headers */,
-				52C99DE61F13EEBC007D6F02 /* SVProgressHUD iOS.h in Headers */,
 				52C99DEE1F13EEE1007D6F02 /* SVProgressAnimatedView.h in Headers */,
-				52C99DEC1F13EEDB007D6F02 /* SVProgressHUD.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
