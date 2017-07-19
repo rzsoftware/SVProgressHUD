@@ -905,9 +905,11 @@ static const CGFloat SVProgressHUDLabelSpacing = 8.0f;
     if(self.defaultMaskType != SVProgressHUDMaskTypeNone) {
         self.accessibilityLabel = status;
         self.isAccessibilityElement = YES;
+        self.controlView.userInteractionEnabled = YES;
     } else {
         self.hudView.accessibilityLabel = status;
         self.hudView.isAccessibilityElement = YES;
+        self.controlView.userInteractionEnabled = NO;
     }
     
     // Show if not already visible
