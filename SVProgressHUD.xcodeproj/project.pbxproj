@@ -92,6 +92,7 @@
 		65F021F115C857EF0030BBEF = {
 			isa = PBXGroup;
 			children = (
+				65F0220D15C858060030BBEF /* SVProgressHUD.bundle */,
 				65F0220115C857EF0030BBEF /* SVProgressHUD */,
 				4A9D7DD91AB345990039B273 /* SVProgressHUD-Framework */,
 				65F021FE15C857EF0030BBEF /* Frameworks */,
@@ -127,7 +128,6 @@
 				6A58C8EB1CAE62F400BF604D /* SVProgressAnimatedView.m */,
 				4A9D7DCE1AB345540039B273 /* SVIndefiniteAnimatedView.h */,
 				4A9D7DCF1AB345540039B273 /* SVIndefiniteAnimatedView.m */,
-				65F0220D15C858060030BBEF /* SVProgressHUD.bundle */,
 				65F0220215C857EF0030BBEF /* Supporting Files */,
 			);
 			path = SVProgressHUD;
